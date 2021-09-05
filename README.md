@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Mahmoud-AbdelAziz784
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mahmoud-AbdelAziz784/Mahmoud-AbdelAziz784 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mahmoud Abdel Aziz
+هذا البرنامج خاص بمراقبه برج الاتصالات الخاص بك اي كانت شبكه الا حضرتك متصل بيها
+مثلا Vodafone Etaslat orange we
